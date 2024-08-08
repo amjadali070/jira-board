@@ -1,3 +1,13 @@
+# Jira Board Project
+
+A simple web application that mimics the functionality of a Jira board, allowing users to create and manage projects with Kanban-style boards.
+## Features
+
+Create new tasks with a title, assigned user, project name, and company information
+Drag and drop tasks between the Backlog, In Progress, and Completed columns
+Responsive design that adapts to different screen sizes
+Intuitive user interface with company logo, project name, and assigned user initials displayed for each task
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
